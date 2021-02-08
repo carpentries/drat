@@ -9,6 +9,14 @@ License: MIT + file LICENSE
 MD5sum: 885fcc43395b189a7759305bfc5373c2
 NeedsCompilation: no
 
+Package: fiderent
+Version: 0.0.0.9000
+Imports: fs, tidyr, purrr, tools, dplyr, tibble, rlang, magrittr
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: e48e7c854059836efbc4cf18b3a29cca
+NeedsCompilation: no
+
 Package: pegboard
 Version: 0.0.0.9009
 Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt,
