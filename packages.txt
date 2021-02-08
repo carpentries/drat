@@ -1,7 +1,7 @@
 carpentries/pegboard@main
 carpentries/varnish@main
 carpentries/sandpaper@main
-ropensci/tinkr@main
+ropensci/tinkr
 fmichonneau/chisel@main
 fmichonneau/fiderent@main
 fmichonneau/checker
