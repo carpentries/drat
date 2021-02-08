@@ -1,0 +1,9 @@
+Package: pegboard
+Version: 0.0.0.9009
+Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt,
+        yaml, commonmark
+Suggests: testthat, withr, covr, knitr, rmarkdown, magrittr, dplyr,
+        crayon, tidygraph, ggraph, ggplot2, gt, rlang
+License: MIT + file LICENSE
+MD5sum: a71ff50b76ba221944d0908d47bd9cc3
+NeedsCompilation: no
