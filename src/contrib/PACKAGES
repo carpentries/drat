@@ -1,3 +1,14 @@
+Package: chisel
+Version: 0.0.0.9002
+Depends: R (>= 3.4.0)
+Imports: cli, colorspace, crul, dplyr, git2r, ids, jsonlite,
+        kableExtra, knitr, purrr, glue, gh, readr, rlang, storr, sys,
+        tibble, utils
+Suggests: rmarkdown
+License: MIT + file LICENSE
+MD5sum: 885fcc43395b189a7759305bfc5373c2
+NeedsCompilation: no
+
 Package: pegboard
 Version: 0.0.0.9009
 Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt,
