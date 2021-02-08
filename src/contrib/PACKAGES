@@ -20,6 +20,15 @@ License: MIT + file LICENSE
 MD5sum: cdee3370faa9f697a94dda69735c6659
 NeedsCompilation: no
 
+Package: tinkr
+Version: 0.0.0.9000
+Imports: magrittr, commonmark (>= 1.6), xslt, xml2, glue, fs, yaml,
+        stringr, knitr, purrr, R6
+Suggests: testthat (>= 3.0.0), covr, withr
+License: GPL-3
+MD5sum: b8b1bbf7ecf8c8d979c29c2401397cee
+NeedsCompilation: no
+
 Package: varnish
 Version: 0.0.0.9002
 License: MIT + file LICENSE
