@@ -4,3 +4,5 @@ carpentries/sandpaper@main
 fmichonneau/chisel@main
 fmichonneau/fiderent@main
 fmichonneau/checker
+ropensci/tinkr
+
