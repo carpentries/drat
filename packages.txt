@@ -1,8 +1,8 @@
-carpentries/pegboard@main
-carpentries/varnish@main
-carpentries/sandpaper@main
-fmichonneau/chisel@main
-fmichonneau/fiderent@main
-fmichonneau/checker
-ropensci/tinkr
+carpentries/pegboard@main  # validator
+carpentries/varnish@main   # front-end template
+carpentries/sandpaper@main # controls
+fmichonneau/chisel@main    # works with github issues
+fmichonneau/fiderent@main  # compares files
+fmichonneau/checker        # checks links
+ropensci/tinkr             # markdown parser
 
