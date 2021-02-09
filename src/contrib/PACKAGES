@@ -33,7 +33,7 @@ Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt,
 Suggests: testthat, withr, covr, knitr, rmarkdown, magrittr, dplyr,
         crayon, tidygraph, ggraph, ggplot2, gt, rlang
 License: MIT + file LICENSE
-MD5sum: a71ff50b76ba221944d0908d47bd9cc3
+MD5sum: 4776d11772da51a0054c7a444b6d47d3
 NeedsCompilation: no
 
 Package: sandpaper
