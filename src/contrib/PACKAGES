@@ -43,9 +43,9 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9007), commonmark,
         assertthat, yaml, desc, knitr, rmarkdown, rprojroot, usethis
         (>= 2.0.0), utils, tools, whisker, callr
 Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, jsonlite,
-        varnish (>= 0.0.0.9001)
+        varnish (>= 0.0.0.9002)
 License: MIT + file LICENSE
-MD5sum: cdee3370faa9f697a94dda69735c6659
+MD5sum: 0ef49afef73ee6da1759da535a20a88d
 NeedsCompilation: no
 
 Package: tinkr
