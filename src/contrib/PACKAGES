@@ -63,7 +63,7 @@ Imports: fs, tinkr, xml2, purrr, glue, R6, lifecycle, xslt, yaml,
 Suggests: gert (>= 1.0.0), testthat, withr, covr, knitr, rmarkdown,
         magrittr, dplyr, crayon, tidygraph, ggraph, ggplot2, gt, rlang
 License: MIT + file LICENSE
-MD5sum: b257cee1db3d29049b1e67d14f165aff
+MD5sum: e883fdda230825c95683fb34c05860c9
 NeedsCompilation: no
 
 Package: sandpaper
