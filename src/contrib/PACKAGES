@@ -195,7 +195,7 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9012), commonmark,
 Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, jsonlite,
         varnish (>= 0.0.0.9002)
 License: MIT + file LICENSE
-MD5sum: 729ab125f93a0f7352effd83f39099f4
+MD5sum: 696de92f88eee06fab5cd8f6a7f7ff4f
 NeedsCompilation: no
 
 Package: tinkr
