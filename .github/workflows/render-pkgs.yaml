@@ -1,5 +1,10 @@
 on:
-  workflow_dispatch: []
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "who is responsible for this"
+        required: true
+        default: 'Carpenter'
   schedule:
     - cron: "5 */12 * * *"
   push:
