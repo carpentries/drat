@@ -323,7 +323,7 @@ Imports: magrittr, commonmark (>= 1.6), xslt, xml2, glue, fs, yaml,
         stringr, knitr, purrr, R6
 Suggests: testthat (>= 3.0.0), covr, withr
 License: GPL-3
-MD5sum: 27219e0f919b3a39af0cdb4fa85a43d6
+MD5sum: 3e4ed87a300cb8968c2980743cf94ca3
 NeedsCompilation: no
 
 Package: varnish
