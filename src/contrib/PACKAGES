@@ -88,13 +88,13 @@ NeedsCompilation: no
 
 Package: pegboard
 Version: 0.0.0.9015
-Imports: fs, tinkr, xml2, purrr, glue, R6, lifecycle, xslt, yaml,
-        commonmark
+Imports: fs, tinkr (>= 0.0.0.9000), xml2, purrr, glue, R6, lifecycle,
+        xslt, yaml, commonmark
 Suggests: gert (>= 1.0.0), testthat, withr, covr, knitr, rmarkdown,
         magrittr, dplyr, crayon, tidygraph, ggraph, ggplot2, gt, cli,
         rlang
 License: MIT + file LICENSE
-MD5sum: b8c4c8a2927adc73bbbb349f511002a7
+MD5sum: afd8cad8f7481bb11a8552430f19554d
 NeedsCompilation: no
 
 Package: sandpaper
