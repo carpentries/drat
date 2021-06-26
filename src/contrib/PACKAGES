@@ -309,12 +309,12 @@ Version: 0.0.0.9027
 Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9014), commonmark,
         xml2, fs, gh, gert (>= 1.0.1), rstudioapi, rlang (>= 0.4.3),
         glue, assertthat, yaml, desc, knitr (>= 1.33), rmarkdown (>=
-        2.4), rprojroot, usethis (>= 2.0.0), whisker, callr, utils,
-        tools
+        2.4), pingr, rprojroot, usethis (>= 2.0.0), whisker, callr,
+        utils, tools
 Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, jsonlite,
         renv (>= 0.13.2), sessioninfo, varnish (>= 0.0.0.9005)
 License: MIT + file LICENSE
-MD5sum: 40310e14abd4bf5fc4d6454e7d50daad
+MD5sum: b7c60ff464d3b3cb2532dc9f7434937d
 NeedsCompilation: no
 
 Package: tinkr
