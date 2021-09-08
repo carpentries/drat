@@ -601,7 +601,7 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9014), cli (>= 2.0.2),
 Suggests: testthat (>= 3.0.0), brio, covr, withr, jsonlite, renv (>=
         0.13.2), sessioninfo, varnish (>= 0.0.0.9005)
 License: MIT + file LICENSE
-MD5sum: 16637f06cc114adbb2ea4376bbfda24f
+MD5sum: f6efeb1e69f4dd744b1b999c3f353582
 NeedsCompilation: no
 
 Package: tinkr
