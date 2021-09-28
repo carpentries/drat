@@ -189,11 +189,11 @@ Package: pegboard
 Version: 0.0.0.9024
 Imports: fs, tinkr (>= 0.0.0.9000), xml2, purrr, glue, R6, lifecycle,
         xslt, yaml, commonmark
-Suggests: gert (>= 1.0.0), testthat, withr, covr, knitr, rmarkdown,
-        magrittr, dplyr, crayon, tidygraph, ggraph, ggplot2, gt, cli,
-        rlang
+Suggests: gert (>= 1.0.0), here, testthat, withr, covr, knitr,
+        rmarkdown, magrittr, dplyr, crayon, tidygraph, ggraph, ggplot2,
+        gt, cli, rlang
 License: MIT + file LICENSE
-MD5sum: 693572780f1918919506f294c4738c28
+MD5sum: 4feb572b06dbece53178701b775b4978
 NeedsCompilation: no
 
 Package: sandpaper
