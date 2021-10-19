@@ -832,7 +832,7 @@ Imports: commonmark (>= 1.6), fs, glue, knitr, magrittr, purrr, R6,
         stringr, xml2, xslt, yaml
 Suggests: rmarkdown, covr, testthat (>= 3.0.0), withr
 License: GPL-3
-MD5sum: cf1eced5bbea1dd4053c6afccc3ad768
+MD5sum: 2b45bf0a78c5e2eceb28158f5e367371
 NeedsCompilation: no
 
 Package: varnish
