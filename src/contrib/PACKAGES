@@ -1131,6 +1131,15 @@ License: GPL-3
 MD5sum: dada89aeeae03c1863b420d6058f58da
 NeedsCompilation: no
 
+Package: tinkr
+Version: 0.0.0.9001
+Imports: commonmark (>= 1.6), fs, glue, knitr, magrittr, purrr, R6,
+        stringr, xml2, xslt, yaml
+Suggests: rmarkdown, covr, testthat (>= 3.0.0), withr
+License: GPL-3
+MD5sum: 35567f68d0a41968eec2d2215565e58c
+NeedsCompilation: no
+
 Package: varnish
 Version: 0.0.0.9002
 License: MIT + file LICENSE
