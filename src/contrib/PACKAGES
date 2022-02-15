@@ -314,7 +314,7 @@ Suggests: gert (>= 1.0.0), here, testthat, withr, covr, knitr,
         rmarkdown, magrittr, dplyr, crayon, tidygraph, ggraph, ggplot2,
         gt, cli, rlang
 License: MIT + file LICENSE
-MD5sum: bc32f770c19a996f9a50646cdce7f7e4
+MD5sum: 5272f60c6bc0e80c228b47204b1ffad8
 NeedsCompilation: no
 
 Package: sandpaper
