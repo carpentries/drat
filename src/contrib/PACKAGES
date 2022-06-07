@@ -1602,7 +1602,7 @@ NeedsCompilation: no
 Package: varnish
 Version: 0.1.14
 License: MIT + file LICENSE
-MD5sum: a11c233210f090d39a933e4ef52312e6
+MD5sum: d8b8a210593ab44d833aa2a74a6479c3
 NeedsCompilation: no
 
 Package: varnish
