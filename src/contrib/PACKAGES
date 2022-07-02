@@ -15,7 +15,7 @@ Imports: cli, colorspace, crul, dplyr, git2r, ids, jsonlite,
         tibble, utils
 Suggests: rmarkdown
 License: MIT + file LICENSE
-MD5sum: 885fcc43395b189a7759305bfc5373c2
+MD5sum: b9760939535e15473fc37c41e7e8f91e
 NeedsCompilation: no
 
 Package: fiderent
