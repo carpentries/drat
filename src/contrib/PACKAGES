@@ -1635,7 +1635,7 @@ Imports: commonmark (>= 1.6), fs, glue, knitr, magrittr, purrr, R6,
         stringr, xml2, xslt, yaml
 Suggests: rmarkdown, covr, testthat (>= 3.0.0), withr
 License: GPL-3
-MD5sum: 4d9fae78073871b951de5ebf09075595
+MD5sum: 451019da8ba0ede12626daee4fd1e63e
 NeedsCompilation: no
 
 Package: varnish
