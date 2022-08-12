@@ -1637,6 +1637,19 @@ License: MIT + file LICENSE
 MD5sum: ae8e29f2a48d16cd9e920ba19619175c
 NeedsCompilation: no
 
+Package: sandpaper
+Version: 0.9.3
+Imports: pkgdown (>= 1.6.0), pegboard (>= 0.2.3), cli (>= 2.0.2),
+        commonmark, fs (>= 1.5.0), gh, gert (>= 1.0.1), rstudioapi,
+        rlang (>= 0.4.3), glue, assertthat, yaml, desc, knitr (>=
+        1.33), rmarkdown (>= 2.4), renv (>= 0.14.0), rprojroot, usethis
+        (>= 2.0.0), whisker, callr, servr, utils, tools
+Suggests: testthat (>= 3.0.0), markdown, brio, xml2, xslt, covr, withr,
+        jsonlite, sessioninfo, varnish (>= 0.2.1), mockr
+License: MIT + file LICENSE
+MD5sum: 5c039680590c0d9082b1969d8fabbc61
+NeedsCompilation: no
+
 Package: tinkr
 Version: 0.0.0.9000
 Imports: commonmark (>= 1.6), fs, glue, knitr, magrittr, purrr, R6,
