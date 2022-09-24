@@ -1765,7 +1765,7 @@ Imports: commonmark (>= 1.6), glue, magrittr, purrr, R6, stringr, xml2,
         xslt, yaml
 Suggests: knitr, rmarkdown, covr, testthat (>= 3.0.0), withr
 License: GPL-3
-MD5sum: a994b7747d0d88f7df4d32b97b571200
+MD5sum: 93be74aceab6a66d965a61f175fdb873
 NeedsCompilation: no
 
 Package: tinkr
