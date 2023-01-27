@@ -464,7 +464,7 @@ Imports: fs (>= 1.5.0), tinkr (>= 0.1.0.9000), xml2, purrr, glue, R6,
 Suggests: gert (>= 1.0.0), here, testthat, withr, covr, knitr,
         rmarkdown, magrittr, dplyr, crayon, cli (>= 0.3.4), rlang
 License: MIT + file LICENSE
-MD5sum: e6c44d69fb735ec664b834854819265d
+MD5sum: 46e19aeae9502f6d62d75b315c1b0c28
 NeedsCompilation: no
 
 Package: sandpaper
