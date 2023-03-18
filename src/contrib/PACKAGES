@@ -2029,7 +2029,7 @@ Imports: commonmark (>= 1.6), glue, magrittr, purrr, R6, xml2, xslt,
         yaml
 Suggests: knitr, rmarkdown, covr, testthat (>= 3.0.0), withr
 License: GPL-3
-MD5sum: 9f53c743864ef0cfcaf118bebda0cb7d
+MD5sum: 7e59ddb86b79d1d26aa90b0784643237
 NeedsCompilation: no
 
 Package: tinkr
