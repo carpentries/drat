@@ -1468,6 +1468,19 @@ MD5sum: 0adcd7e7ecf3478f6ec87d7c547c76af
 NeedsCompilation: no
 
 Package: sandpaper
+Version: 0.11.12
+Imports: pkgdown (>= 1.6.0), pegboard (>= 0.2.3), cli (>= 3.4.0),
+        commonmark, fs (>= 1.5.0), gh, gert (>= 1.0.1), rstudioapi,
+        rlang (>= 0.4.3), glue, assertthat, yaml, desc, knitr (>=
+        1.33), rmarkdown (>= 2.4), renv (>= 0.14.0), rprojroot, usethis
+        (>= 2.0.0), whisker, callr, servr, utils, tools
+Suggests: testthat (>= 3.0.0), markdown, brio, xml2, xslt, covr, withr,
+        jsonlite, sessioninfo, varnish (>= 0.2.1), mockr
+License: MIT + file LICENSE
+MD5sum: aab62b8b2bbb9624cb540fb30af20ae0
+NeedsCompilation: no
+
+Package: sandpaper
 Version: 0.11.2
 Imports: pkgdown (>= 1.6.0), pegboard (>= 0.2.3), cli (>= 3.4.0),
         commonmark, fs (>= 1.5.0), gh, gert (>= 1.0.1), rstudioapi,
