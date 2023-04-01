@@ -467,6 +467,16 @@ License: MIT + file LICENSE
 MD5sum: 46e19aeae9502f6d62d75b315c1b0c28
 NeedsCompilation: no
 
+Package: pegboard
+Version: 0.5.1
+Imports: fs (>= 1.5.0), tinkr (>= 0.2.0), xml2, purrr, glue, R6, xslt,
+        yaml, commonmark
+Suggests: gert (>= 1.0.0), here, testthat, withr, covr, knitr,
+        rmarkdown, magrittr, dplyr, crayon, cli (>= 0.3.4), rlang
+License: MIT + file LICENSE
+MD5sum: 8da0e85428e2308c2cf13f8110eca2b9
+NeedsCompilation: no
+
 Package: sandpaper
 Version: 0.0.0.9010
 Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9007), commonmark,
