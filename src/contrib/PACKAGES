@@ -2267,6 +2267,12 @@ MD5sum: 41b6baeb2c3fc2012eaa85a042648927
 NeedsCompilation: no
 
 Package: varnish
+Version: 0.2.16
+License: MIT + file LICENSE
+MD5sum: df630920450a346fa42f03985ba74a5c
+NeedsCompilation: no
+
+Package: varnish
 Version: 0.2.2
 License: MIT + file LICENSE
 MD5sum: c0c6798f6133c792ab0414af1fee219f
