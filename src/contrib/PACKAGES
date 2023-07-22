@@ -489,12 +489,12 @@ NeedsCompilation: no
 
 Package: pegboard
 Version: 0.5.3
-Imports: fs (>= 1.5.0), tinkr (>= 0.2.0), xml2, purrr, glue, R6, xslt,
-        yaml, commonmark
-Suggests: gert (>= 1.0.0), here, testthat, withr, covr, knitr,
-        rmarkdown, magrittr, dplyr, crayon, cli (>= 0.3.4), rlang
+Imports: commonmark, fs (>= 1.5.0), glue, purrr, R6, tinkr (>= 0.2.0),
+        xml2, xslt, yaml
+Suggests: cli (>= 0.3.4), covr, crayon, dplyr, gert (>= 1.0.0), here,
+        knitr, magrittr, rlang, rmarkdown, testthat, withr
 License: MIT + file LICENSE
-MD5sum: fd6fb56740777684fc673e8a5b56c3b7
+MD5sum: a840b0ae3daa484c4022aad07a35d62e
 NeedsCompilation: no
 
 Package: sandpaper
