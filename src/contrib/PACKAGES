@@ -514,7 +514,7 @@ Imports: commonmark, fs (>= 1.5.0), glue, purrr, R6, tinkr (>= 0.2.0),
 Suggests: cli (>= 0.3.4), covr, crayon, dplyr, gert (>= 1.0.0), here,
         knitr, magrittr, rlang, rmarkdown, testthat, withr
 License: MIT + file LICENSE
-MD5sum: d83b6e145d024aeaa9f550d072a734d8
+MD5sum: 34cf894e92f5836369240c4cbcd514bc
 NeedsCompilation: no
 
 Package: sandpaper
