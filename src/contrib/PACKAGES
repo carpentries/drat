@@ -508,6 +508,16 @@ MD5sum: 7173bd3edb2251cfbd9d87aaf96cc1cb
 NeedsCompilation: no
 
 Package: pegboard
+Version: 0.6.1.9000
+Imports: commonmark, fs (>= 1.5.0), glue, purrr, R6, tinkr (>= 0.2.0),
+        xml2, xslt, yaml
+Suggests: cli (>= 0.3.4), covr, crayon, dplyr, gert (>= 1.0.0), here,
+        knitr, magrittr, rlang, rmarkdown, testthat, withr
+License: MIT + file LICENSE
+MD5sum: c015ed46e305dbd3fe5256a5e30aa24a
+NeedsCompilation: no
+
+Package: pegboard
 Version: 0.6.1
 Imports: commonmark, fs (>= 1.5.0), glue, purrr, R6, tinkr (>= 0.2.0),
         xml2, xslt, yaml
