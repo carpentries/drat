@@ -2732,7 +2732,7 @@ NeedsCompilation: no
 Package: varnish
 Version: 0.4.0.9000
 License: MIT + file LICENSE
-MD5sum: d02adabccefd69295cda0ca8242546c2
+MD5sum: ed882d39b764ec7933a1e08427097a7a
 NeedsCompilation: no
 
 Package: varnish
