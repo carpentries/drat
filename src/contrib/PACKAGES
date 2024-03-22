@@ -2837,3 +2837,9 @@ Version: 1.0.1.9000
 License: MIT + file LICENSE
 MD5sum: ad723f68cacb797d9518b81c698a3714
 NeedsCompilation: no
+
+Package: varnish
+Version: 1.0.2.9000
+License: MIT + file LICENSE
+MD5sum: 0a89e1fc7d122995aa7967ff0192b7ce
+NeedsCompilation: no
