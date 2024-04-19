@@ -2582,6 +2582,15 @@ MD5sum: 1cbcd7a8620e769d18702057e5fe55e0
 NeedsCompilation: no
 
 Package: tinkr
+Version: 0.2.0.9000
+Imports: commonmark (>= 1.6), glue, magrittr, purrr, R6, xml2, xslt,
+        yaml
+Suggests: knitr, rmarkdown, covr, testthat (>= 3.0.0), withr
+License: GPL-3
+MD5sum: 28864a8d2e8c6315f2f075600ed44523
+NeedsCompilation: no
+
+Package: tinkr
 Version: 0.2.0
 Imports: commonmark (>= 1.6), glue, magrittr, purrr, R6, xml2, xslt,
         yaml
