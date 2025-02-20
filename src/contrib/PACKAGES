@@ -2762,11 +2762,11 @@ NeedsCompilation: no
 
 Package: tinkr
 Version: 0.2.0.9001
-Imports: commonmark (>= 1.6), glue, magrittr, purrr, R6, rlang (>=
-        0.4.5), xml2, xslt, yaml
+Imports: commonmark (>= 1.6), glue, lifecycle, magrittr, purrr, R6,
+        rlang (>= 0.4.5), xml2, xslt
 Suggests: knitr, rmarkdown, covr, testthat (>= 3.0.0), withr
 License: GPL-3
-MD5sum: 346d61952deaeb41a0d5ed1addbf49c8
+MD5sum: b06ab7fe6ba0889ef72b11f3c203dd08
 NeedsCompilation: no
 
 Package: tinkr
