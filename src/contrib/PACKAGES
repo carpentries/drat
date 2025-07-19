@@ -2842,7 +2842,7 @@ Imports: commonmark (>= 1.6), glue, lifecycle, magrittr, purrr, R6,
         rlang (>= 0.4.5), xml2, xslt
 Suggests: knitr, rmarkdown, covr, testthat (>= 3.0.0), withr
 License: GPL-3
-MD5sum: 238bf24daa8fbba40c1e06ae08ddc7ab
+MD5sum: d08f93dfddb7338f40d3f8b48f344285
 NeedsCompilation: no
 
 Package: varnish
