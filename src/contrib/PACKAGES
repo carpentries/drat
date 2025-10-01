@@ -2881,11 +2881,12 @@ NeedsCompilation: no
 
 Package: tinkr
 Version: 0.3.0
+Depends: R (>= 4.1.0)
 Imports: commonmark (>= 1.6), glue, lifecycle, magrittr, purrr, R6,
         rlang (>= 0.4.5), xml2, xslt
 Suggests: knitr, rmarkdown, covr, testthat (>= 3.0.0), withr
 License: GPL-3
-MD5sum: ff712356c3e46103d58a1f628cde2309
+MD5sum: af131c8eaac252f4da988f6f7d7e4c74
 NeedsCompilation: no
 
 Package: varnish
