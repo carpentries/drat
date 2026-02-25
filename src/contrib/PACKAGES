@@ -2506,9 +2506,9 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.7.0), cli (>= 3.4.0),
         rprojroot, usethis (>= 2.0.0), withr, whisker, callr, cffr,
         servr, utils, tools, stringr, httr, R.utils, xfun
 Suggests: testthat (>= 3.0.0), covr, brio, xml2, xslt, jsonlite,
-        sessioninfo, mockr, varnish (>= 1.0.7)
+        sessioninfo, mockr, pak, varnish (>= 1.0.7)
 License: MIT + file LICENSE
-MD5sum: 64d3e57d3343f6133b7ea71e3e0d5474
+MD5sum: de2e1fa1cc6b4fc5db927ae8d2660253
 NeedsCompilation: no
 
 Package: sandpaper
