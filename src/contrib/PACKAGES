@@ -3445,5 +3445,5 @@ NeedsCompilation: no
 Package: varnish
 Version: 1.0.9
 License: MIT + file LICENSE
-MD5sum: 48b8feb8e344964ac5d44e8ec8240db8
+MD5sum: cb50e4fed1b7b88162648a9740f3ea4d
 NeedsCompilation: no
