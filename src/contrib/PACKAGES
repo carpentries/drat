@@ -3092,7 +3092,7 @@ Imports: cli, commonmark (>= 1.6), lifecycle, magrittr, purrr, R6,
         rlang (>= 0.4.5), xml2, xslt
 Suggests: knitr, rmarkdown, covr, testthat (>= 3.0.0), withr
 License: GPL-3
-MD5sum: d5d05fc43722f18d7dde71a45064ec37
+MD5sum: 039b5db63f540dc9c5f63b909ca602e1
 NeedsCompilation: no
 
 Package: varnish
