@@ -2592,11 +2592,12 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.7.0), cli (>= 3.4.0),
         rlang (>= 0.4.3), glue, assertthat, yaml, desc, knitr (>=
         1.33), markdown, rmarkdown (>= 2.4), renv (>= 0.14.0),
         rprojroot, usethis (>= 2.0.0), withr, whisker, callr, cffr,
-        servr, utils, tools, stringr, httr, R.utils, xfun
+        servr, utils, tools, stringr, httr, R.utils, xfun, nanonext (>=
+        1.8.0),
 Suggests: testthat (>= 3.0.0), covr, brio, xml2, xslt, jsonlite,
         sessioninfo, mockr, pak, varnish (>= 1.0.9)
 License: MIT + file LICENSE
-MD5sum: ffbcdc0cc650d4d5d3bfb1118b798400
+MD5sum: 36997c9b426119667f794a02140bd8c0
 NeedsCompilation: no
 
 Package: sandpaper
