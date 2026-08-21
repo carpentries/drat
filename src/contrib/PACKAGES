@@ -2597,7 +2597,7 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.7.0), cli (>= 3.4.0),
 Suggests: testthat (>= 3.0.0), covr, brio, xml2, xslt, jsonlite,
         sessioninfo, mockr, pak, varnish (>= 1.0.9)
 License: MIT + file LICENSE
-MD5sum: 19652b6cb7a6fd21a914942ee74e51fa
+MD5sum: d34d33dcecd2be2609de7971100430c4
 NeedsCompilation: no
 
 Package: sandpaper
