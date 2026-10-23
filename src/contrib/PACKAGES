@@ -3155,7 +3155,7 @@ Imports: cli, commonmark (>= 1.6), lifecycle, magrittr, purrr, R6,
         rlang (>= 0.4.5), xml2, xslt
 Suggests: knitr, rmarkdown, covr, testthat (>= 3.0.0), withr, roxygen2
 License: GPL-3
-MD5sum: cc1840c9012bcebc9a0e83c9b06fb50e
+MD5sum: 1b05925be65e5e2caa7ff6dcfd00cd60
 NeedsCompilation: no
 
 Package: varnish
